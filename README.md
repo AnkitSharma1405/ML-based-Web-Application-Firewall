@@ -1,1 +1,1 @@
-This project is a Web Application Firewall (WAF) designed to protect web applications from malicious requests. By leveraging Machine Learning , specifically K-Means, the WAF can distinguish between good (legitimate) and bad (malicious) requests. The solution involves a proxy server that intercepts incoming requests, evaluates them using a trained ML model, and determines whether to allow or block the request based on the prediction.
+
